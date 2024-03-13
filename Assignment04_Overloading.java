@@ -14,11 +14,11 @@ public class Assignment04_Overloading
 	{
 		System.out.println("This is non-static method 2");
 	}
-	Assignment4_Overloading(double c)
+	Assignment04_Overloading(double c)
 	{
 		System.out.println("This is a constructor 1");
 	}
-	Assignment4_Overloading(int c,String v)
+	Assignment04_Overloading(int c,String v)
 	{
 		System.out.println("This is a constructor 2");
 	}
